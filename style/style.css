@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&display=swap');
+
+body{
+  background-image: url('https://i.pinimg.com/1200x/8e/de/1d/8ede1dd0e3683e256b30b5216b11bfc5.jpg'); 
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h1,h3{font-family: 'Orbitron', sans-serif; text-align:center;}
+h3{
+  display: table;
+  margin: 0px auto 0px auto;
+  background-color: black;
+  color: yellowgreen;
+}
+#gameOutput{
+  text-align: center; font-size: 30px; font-weight: bold; color:whitesmoke;
+}
+
+
 img
 {
   width: 30%;
