@@ -8,6 +8,7 @@ $( document ).ready(function() {
     }
   ); 
   
+  
  
   $( "#rainboww" ).draggable({
       stop: function() {
@@ -24,7 +25,6 @@ $( document ).ready(function() {
           $('#gameOutput').text("NAHHHHHH (´･_･`)");
         }
     }
-    
     
   
     

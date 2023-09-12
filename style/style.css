@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap');
+
 
 body{
   background-image: url('https://i.pinimg.com/1200x/8e/de/1d/8ede1dd0e3683e256b30b5216b11bfc5.jpg'); 
@@ -13,6 +15,14 @@ h3{
   display: table;
   margin: 0px auto 0px auto;
   background-color: black;
+}
+
+button{
+  background-color: powderblue;
+  color: indigo;
+  font-weight: bold;
+  font-family: 'Rubik Iso', cursive;
+
 }
 
 #gameOutput{
